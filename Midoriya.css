@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+header{
+    background-color: teal;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1, h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    margin-top: 50px;
+}
+
+header h1{
+    color: white;
+    font-size: 100px;
+    
+}
+
+header img {
+    border-radius: 250px;
+    width: 175px;
+    border: solid black 5px;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+main img {
+    max-width: 100%;
+}
+
+h3 {
+    margin: 0;
+    text-align: center;
+    color: white;
+    background-color: teal;
+}
+
+p {
+    text-align: justify;
+}
+
+.midoriya {
+    margin-bottom: 0;
+}
+
+h2{
+    font-size: 30px;
+    color: teal;
+    margin-bottom: 0;
+}
+
+a{
+    color: teal;
+}
+
+a:hover {
+    color: white;
+    background-color: teal;
+}
+
+ul {
+    margin-top: 10px;
+}
+
+ol {
+    margin-top: 10px;
+}
+
+
+footer{
+    background-color: teal;
+    text-align: center;
+    color: white;
+    padding: 25px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+}
+footer p {
+    margin: 0;
+}
